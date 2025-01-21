@@ -1,0 +1,14 @@
+C:\Users\Y. BERK\source\repos\Uygulama3\bin\Debug\net8.0\Uygulama3.exe
+C:\Users\Y. BERK\source\repos\Uygulama3\bin\Debug\net8.0\Uygulama3.deps.json
+C:\Users\Y. BERK\source\repos\Uygulama3\bin\Debug\net8.0\Uygulama3.runtimeconfig.json
+C:\Users\Y. BERK\source\repos\Uygulama3\bin\Debug\net8.0\Uygulama3.dll
+C:\Users\Y. BERK\source\repos\Uygulama3\bin\Debug\net8.0\Uygulama3.pdb
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\Uygulama3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\Uygulama3.AssemblyInfoInputs.cache
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\Uygulama3.AssemblyInfo.cs
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\Uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\Uygulama3.dll
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\refint\Uygulama3.dll
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\Uygulama3.pdb
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\Uygulama3.genruntimeconfig.cache
+C:\Users\Y. BERK\source\repos\Uygulama3\obj\Debug\net8.0\ref\Uygulama3.dll
