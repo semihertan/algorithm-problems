@@ -1,3 +1,3 @@
 BÜTÜN ÇÖZÜMLERİN .exe uzantılı dosyaları \bin\Debug\net8.0 yolundadır.
 
-THE exe. FILES OF ALL SOLUTIONS IN \bin\Debug\net8.0
+ALL SOLUTIONS have .exe files in the path \bin\Debug\net8.0.
