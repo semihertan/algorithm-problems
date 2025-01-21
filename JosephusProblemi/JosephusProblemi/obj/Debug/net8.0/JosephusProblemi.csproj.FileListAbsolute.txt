@@ -1,0 +1,14 @@
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\JosephusProblemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\JosephusProblemi.AssemblyInfoInputs.cache
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\JosephusProblemi.AssemblyInfo.cs
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\JosephusProblemi.csproj.CoreCompileInputs.cache
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\bin\Debug\net8.0\JosephusProblemi.exe
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\bin\Debug\net8.0\JosephusProblemi.deps.json
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\bin\Debug\net8.0\JosephusProblemi.runtimeconfig.json
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\bin\Debug\net8.0\JosephusProblemi.dll
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\bin\Debug\net8.0\JosephusProblemi.pdb
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\JosephusProblemi.dll
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\refint\JosephusProblemi.dll
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\JosephusProblemi.pdb
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\JosephusProblemi.genruntimeconfig.cache
+C:\Users\Y. BERK\source\repos\JosephusProblemi\JosephusProblemi\obj\Debug\net8.0\ref\JosephusProblemi.dll
